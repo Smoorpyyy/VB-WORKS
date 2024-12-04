@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|c:\\users\\qcu\\source\\repos\\lastpayroll\\lastpayroll\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|solutionrelative:lastpayroll\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|c:\\users\\qcu\\source\\repos\\lastpayroll\\lastpayroll\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|solutionrelative:lastpayroll\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|c:\\users\\qcu\\source\\repos\\lastpayroll\\lastpayroll\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|solutionrelative:lastpayroll\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|c:\\users\\qcu\\source\\repos\\lastpayroll\\lastpayroll\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|solutionrelative:lastpayroll\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|c:\\users\\qcu\\source\\repos\\lastpayroll\\lastpayroll\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|solutionrelative:lastpayroll\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|c:\\users\\qcu\\source\\repos\\lastpayroll\\lastpayroll\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E64BEFDD-0631-47E6-9C6C-75729B6EC010}|LastPayroll\\LastPayroll.vbproj|solutionrelative:lastpayroll\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form2.vb",
+              "RelativeDocumentMoniker": "LastPayroll\\Form2.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form2.vb",
+              "RelativeToolTip": "LastPayroll\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-18T07:09:12.179Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form3.vb",
+              "RelativeDocumentMoniker": "LastPayroll\\Form3.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form3.vb",
+              "RelativeToolTip": "LastPayroll\\Form3.vb",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-18T09:33:54.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form3.vb",
+              "RelativeDocumentMoniker": "LastPayroll\\Form3.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form3.vb [Design]",
+              "RelativeToolTip": "LastPayroll\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-18T09:46:55.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form2.vb",
+              "RelativeDocumentMoniker": "LastPayroll\\Form2.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form2.vb [Design]",
+              "RelativeToolTip": "LastPayroll\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-18T06:42:12.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form1.vb",
+              "RelativeDocumentMoniker": "LastPayroll\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form1.vb [Design]",
+              "RelativeToolTip": "LastPayroll\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-17T09:31:28.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form1.vb",
+              "RelativeDocumentMoniker": "LastPayroll\\Form1.vb",
+              "ToolTip": "C:\\Users\\QCU\\source\\repos\\LastPayroll\\LastPayroll\\Form1.vb",
+              "RelativeToolTip": "LastPayroll\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-17T05:12:15.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
